@@ -1,0 +1,12 @@
+
+*.user
+*.Development.*
+*.code-workspace
+
+*vs/
+*.idea/
+*.vscode/
+*.config/
+
+*bin/
+*obj/
