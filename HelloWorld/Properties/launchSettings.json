@@ -1,13 +1,5 @@
 ﻿{
     "profiles": {
-        "http": {
-            "commandName": "Project",
-            "dotnetRunMessages": true,
-            "environmentVariables": {
-                "ASPNETCORE_ENVIRONMENT": "Development"
-            },
-            "applicationUrl": "http://0.0.0.0:5000"
-        },
         "https": {
             "commandName": "Project",
             "dotnetRunMessages": true,
