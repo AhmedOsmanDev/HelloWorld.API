@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.0.31903.59
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HelloWorld", "HelloWorld\HelloWorld.csproj", "{7F4E9C02-57F7-4840-A347-5DAE43737266}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HelloWorld.API", "HelloWorld.API.csproj", "{7F4E9C02-57F7-4840-A347-5DAE43737266}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
