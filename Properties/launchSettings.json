@@ -2,7 +2,6 @@
     "profiles": {
         "http": {
             "commandName": "Project",
-            "dotnetRunMessages": true,
             "environmentVariables": {
                 "ASPNETCORE_ENVIRONMENT": "Development"
             },
@@ -10,7 +9,6 @@
         },
         "https": {
             "commandName": "Project",
-            "dotnetRunMessages": true,
             "environmentVariables": {
                 "ASPNETCORE_ENVIRONMENT": "Development"
             },
