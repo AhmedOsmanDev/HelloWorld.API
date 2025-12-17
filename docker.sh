@@ -1,7 +1,5 @@
 #!/bin/bash
 
-dotnet build
-
 docker stop hello-world 2>/dev/null || true
 docker rm hello-world 2>/dev/null || true
 
